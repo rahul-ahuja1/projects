@@ -1,4 +1,4 @@
-# projects
+# Data Analysis and Data Science Projects
 ### EDA - 2020 Kaggle Machine Learning Data Science Survey - India-USA comparisons  
 ___Exploratory Data Analysis___
 Since 2017, Kaggle has been conducting annual industry-wide surveys to get an overview of the state of data science and machine learning worldwide. The collected (and cleansed) data then becomes the base for a competition for the Kaggle community to explore and glean data stories out of, whether about a section or about an aspect of the data science community. 2020 marks the third year since the initiation of the Annual Data Science Survey Challenge.
