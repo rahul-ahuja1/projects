@@ -5,4 +5,4 @@ Since 2017, Kaggle has been conducting annual industry-wide surveys to get an ov
 
 The largest participants in the survey sample were from India (29%) and USA (11%). So, this project was initiated with the intent to study the contrasts between the overall scenario and the India and US trends.
 
-Links : [nbviewer](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/77e7456893ebf8bac4fae3455aaca39144a2de49/EDA%20-%202020%20Kaggle%20ML-DS%20Survey.ipynb) &nbsp;,&nbsp; [kaggle](https://www.kaggle.com/rahulahuja1/eda-2020-kaggle-ml-ds-survey-india-usa)
+Links : &nbsp; [nbviewer](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/77e7456893ebf8bac4fae3455aaca39144a2de49/EDA%20-%202020%20Kaggle%20ML-DS%20Survey.ipynb), [kaggle](https://www.kaggle.com/rahulahuja1/eda-2020-kaggle-ml-ds-survey-india-usa)
