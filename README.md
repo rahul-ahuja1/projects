@@ -20,7 +20,7 @@ ___Multiple Linear Regression___
 This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston, Massachusetts. It was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts.  
 The project aims at building a regression model for prediction of Median House Prices.
 
-Links : &nbsp; [[Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/8c5a9ddd797c2b2a53f3e063a5e01d90b5567266/MLR%20-%20Boston%20House%20Prices.ipynb#Final-model)
+Links : &nbsp; [Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/8c5a9ddd797c2b2a53f3e063a5e01d90b5567266/MLR%20-%20Boston%20House%20Prices.ipynb#Final-model)
 
 
 ### College dataset
