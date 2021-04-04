@@ -25,6 +25,6 @@ Links : &nbsp; [Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/project
 
 ### College dataset
 ___Simple Data Analysis___  
-This project is based on the dataset containing statistics for a large number of US Colleges from the 1995 issue of US News and World Report, which was part of the curriculum of the book Introduction to Statistical Learning with R. Focus of this project was on simple data analysis. The insights will later on be compared with analysis based on statistical-techniques.
+This project is based on the dataset containing statistics for a large number of US Colleges from the 1995 issue of US News and World Report, which is part of the curriculum of the book Introduction to Statistical Learning with R. Focus of this project was on simple data analysis. The insights will later on be compared with analysis based on statistical-techniques.
 
 Links : &nbsp; [Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20Python/02.08%20%28P%29%20-%20College.ipynb) , [R](https://nbviewer.jupyter.org/github/rahul-ahuja1/An-Introduction-to-Statistical-Learning/blob/main/with%20R/02.08%20%28R%29%20-%20College.ipynb)
