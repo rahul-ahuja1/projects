@@ -9,9 +9,9 @@ Links : &nbsp; [nbviewer](https://nbviewer.jupyter.org/github/rahul-ahuja1/proje
 
 
 ### Customer Segmentation for Subscription Service
+This dataset contains a few simulated demographic features for a consumer segmentation project for a subscription based service. The project is about segmenting the target customer base using cluterization techeniques.
 
-
-Links : &nbsp; [Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/6c7d6b384192fe3a7f394f656042ddb178111651/Segmentation%20-%20Clustering%20and%20Classification%20%28P%29.ipynb), [R](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/6c7d6b384192fe3a7f394f656042ddb178111651/Segmentation%20-%20Clustering%20and%20Classification%20%28R%29.ipynb)
+Links : &nbsp; [Python](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/b8754c61cd1b8d6d34d17c27c7a7324b5846d4d9/Segmentation%20-%20Clustering%20%28P%29.ipynb), [R](https://nbviewer.jupyter.org/github/rahul-ahuja1/projects/blob/b8754c61cd1b8d6d34d17c27c7a7324b5846d4d9/Segmentation%20-%20Clustering%20%28R%29.ipynb)
 
 
 
